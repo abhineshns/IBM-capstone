@@ -41,3 +41,4 @@
 
 ### We have created 2 models that predict severity of accident from the given independent variables. The algorithms showed an accuracy of 74%. So using this algorithms we can predict the severity of the future accidents. So we can change certain factors so that it eventually reduce the severity of the accident.     
 
+### For the detailed report please check this blog link http://datageeks.unaux.com/2020/08/19/predicting-the-severity-of-road-accidents/
